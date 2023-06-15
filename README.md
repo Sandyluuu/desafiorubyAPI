@@ -1,19 +1,9 @@
-# Ruby on Replit
 
-This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
+Hola! Bienvenidos a mi Desafío API, donde nos conectaremos en este caso, a la API de la NASA 
 
-## Running the repl
+En esta oportunidad, todo el ejercicio está en un archivo, por lo tanto, dejo las instrucciones para ver las distintas preguntas solicitadas en el desafío:
 
-Simply hit run! You can edit the run command from the `.replit` file.
+Pregunta 1: Método Request responde en el código hasta línea 17
+Pregunta 2: líneas 20 a la 29, descomentar líneas 19 y 22
+Pregunta 3: Línes de código 31 al 41, comentar denuevo líneas 19 y 22
 
-## Installing packages
-
-To add packages to your repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/guides/getting_started.html).
-
-**Warning: Avoid using `gem install` to add packages.**
-
-Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
-
-## Help
-
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
